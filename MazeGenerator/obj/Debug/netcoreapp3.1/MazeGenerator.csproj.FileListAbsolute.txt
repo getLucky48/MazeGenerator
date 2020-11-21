@@ -1,0 +1,13 @@
+D:\2_GitHub\MazeGenerator\MazeGenerator\bin\Debug\netcoreapp3.1\MazeGenerator.exe
+D:\2_GitHub\MazeGenerator\MazeGenerator\bin\Debug\netcoreapp3.1\MazeGenerator.deps.json
+D:\2_GitHub\MazeGenerator\MazeGenerator\bin\Debug\netcoreapp3.1\MazeGenerator.runtimeconfig.json
+D:\2_GitHub\MazeGenerator\MazeGenerator\bin\Debug\netcoreapp3.1\MazeGenerator.runtimeconfig.dev.json
+D:\2_GitHub\MazeGenerator\MazeGenerator\bin\Debug\netcoreapp3.1\MazeGenerator.dll
+D:\2_GitHub\MazeGenerator\MazeGenerator\bin\Debug\netcoreapp3.1\MazeGenerator.pdb
+D:\2_GitHub\MazeGenerator\MazeGenerator\obj\Debug\netcoreapp3.1\MazeGenerator.csprojAssemblyReference.cache
+D:\2_GitHub\MazeGenerator\MazeGenerator\obj\Debug\netcoreapp3.1\MazeGenerator.AssemblyInfoInputs.cache
+D:\2_GitHub\MazeGenerator\MazeGenerator\obj\Debug\netcoreapp3.1\MazeGenerator.AssemblyInfo.cs
+D:\2_GitHub\MazeGenerator\MazeGenerator\obj\Debug\netcoreapp3.1\MazeGenerator.csproj.CoreCompileInputs.cache
+D:\2_GitHub\MazeGenerator\MazeGenerator\obj\Debug\netcoreapp3.1\MazeGenerator.dll
+D:\2_GitHub\MazeGenerator\MazeGenerator\obj\Debug\netcoreapp3.1\MazeGenerator.pdb
+D:\2_GitHub\MazeGenerator\MazeGenerator\obj\Debug\netcoreapp3.1\MazeGenerator.genruntimeconfig.cache
